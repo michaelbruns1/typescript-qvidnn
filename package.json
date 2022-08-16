@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": false,
   "main": "index.js",
-  "scripts": { "tsc": "tsc" },
+  "scripts": { "tsc": "npm run tsc" },
   "liscense": "ISC",
   "dependencies": {},
   "devDependencies": {

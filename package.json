@@ -3,10 +3,10 @@
   "version": "0.0.0",
   "private": false,
   "main": "index.js",
-  "scripts":{"tsc":"tsc"},
+  "scripts": { "tsc": "tsc" },
   "liscense": "ISC",
   "dependencies": {},
-  "devDependencies":{
+  "devDependencies": {
     "typescript": "^4.3.5"
   }
 }
